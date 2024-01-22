@@ -1,2 +1,2 @@
 # pubmedMini
-Storing PMC article information for each gene query
+Storing subset of PMC abstract and text for gene query
